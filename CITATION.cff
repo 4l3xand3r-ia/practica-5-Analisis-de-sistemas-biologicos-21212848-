@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alexander
+    family-names: Torres Avila
+    email: l21212848@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/4l3xand3r-ia/Practica-3-algoritmos-de-regresi-n-no-lineal
+abstract: |2-
+    Tecnológico Nacional de México
+    Instituto Tecnológico de Tijuana
+    Ingeniería biomédica
+    Gemelos Digitales 
+    Práctica 3: Algoritmos de regresión no lineal
+keywords:
+  - Crecimiento sigmoidal
+  - Crecimiento logístico
+  - Crecimiento alométrico
+  - Crecimiento Gompertz
+  - Ecuaciones diferenciales no lineales
+  - Métodos numéricos
+  - Método de Euler
+  - Método de Heun
+  - Punto de inflexión
+  - Capacidad de carga
+  - Dinámica poblacional
+  - Sistemas dinámicos biológicos
+license: BSD-2-Clause
+date-released: '2025-03-27'
