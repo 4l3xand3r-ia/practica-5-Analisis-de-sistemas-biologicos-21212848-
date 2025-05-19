@@ -15,25 +15,21 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://github.com/4l3xand3r-ia/Practica-3-algoritmos-de-regresi-n-no-lineal
+      https://github.com/4l3xand3r-ia/practica-5-Analisis-de-sistemas-biologicos-21212848-
 abstract: |2-
     Tecnológico Nacional de México
     Instituto Tecnológico de Tijuana
     Ingeniería biomédica
     Gemelos Digitales 
-    Práctica 3: Algoritmos de regresión no lineal
+    Práctica 5: Analisis de sitemas biologicos
 keywords:
-  - Crecimiento sigmoidal
-  - Crecimiento logístico
-  - Crecimiento alométrico
-  - Crecimiento Gompertz
-  - Ecuaciones diferenciales no lineales
-  - Métodos numéricos
-  - Método de Euler
-  - Método de Heun
-  - Punto de inflexión
-  - Capacidad de carga
-  - Dinámica poblacional
-  - Sistemas dinámicos biológicos
+  - Sistemas biológicos
+  - Modelado matemático
+  - Ecuaciones diferenciales ordinarias (EDO)
+  - Dinámica de poblaciones
+  - Experimentación in silico
+  - Estabilidad
+  - Conjunto compacto invariante
+  - Trayectoria en el espacio de fase
 license: BSD-2-Clause
-date-released: '2025-03-27'
+date-released: '2025-05-19'
